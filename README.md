@@ -1,4 +1,4 @@
-## Blind Auction
+## Blind Auction 👨‍🦯💰🔨
 A simple Python project that lets users play a secret auction game with friends
 
 # Instructions
@@ -23,9 +23,6 @@ If there are other bidders, the screen should clear, so you can pass your phone 
 The winner is Elon with a bid of $55000000000
 ```
 
-Use your knowledge of Python dictionaries and loops to solve this challenge. 
-
-
 # My console doesn't clear!
 
-This will happen if you’re using an IDE other than replit (e.g., VSCode, PyCharm etc). Similar to how we used the "random" module previously, in this project we will use the "replit" module. The `clear()` function is available here via the replit module without any extra configuration. 
+This will happen if you’re using an IDE other than replit (e.g., VSCode, PyCharm, etc). Similar to how we used the "random" module previously, in this project we will use the "replit" module. The `clear()` function is available here via the replit module without any extra configuration. 
