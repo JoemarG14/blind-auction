@@ -3,7 +3,7 @@ A simple Python project that lets users play a secret auction game with friends
 
 # Instructions
 
-The objective is to write a program that will collect the names and bids of different people. The program should ask for each bidder's name and their bid individually. 
+The objective is to collect the names and bids of different people. The program should ask for each bidder's name and their bid individually. 
 
 ```
 Welcome to the secret auction program. 
